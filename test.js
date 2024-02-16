@@ -9,3 +9,6 @@ else{
  return n * factorial(n - 1);
 }
 }
+function suma(a ,b){
+    return a + b;
+}
